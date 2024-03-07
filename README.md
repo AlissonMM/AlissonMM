@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alisson Mayer Medeji</h1>
 <h3 align="center">A systems development technician, full-stack developer from Brazil</h3>
-
+<br>
 
 - 🌱 I’m currently learning Spring Boot, Java, ORM, JPA</h4>
 
@@ -8,9 +8,9 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/](https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/)
 
-<h4>- 💬 What I use the most **C#, Java, HTML, CSS, JavaScript, React**</h4>
+- 💬 What I use the most **C#, Java, HTML, CSS, JavaScript, React**</h4>
 
-<h4>- 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
+- 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
 <h4>- 📄 Know about my experiences I've studied for three years at Etec Guarulhos, where I graduated as a systems development technician. Now I'm studying for a bachelor's degree in Systems Analysis and Development at Fatec Guarulhos, and I'm looking to specialize by doing projects and freelancing with my colleagues. Recently I started to make my first game using Unity Engine, as a hobby.</h4>
 
