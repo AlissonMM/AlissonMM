@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisson Mayer Medeji</h1>
-<h3 align="center">A systems development technician, full-stack developer from Brazil</h3>
+<h3 align="center">A systems development technician, Full-stack developer from Brazil🙂</h3>
 <br>
 
 - 🌱 I’m currently learning Spring Boot, Java, ORM, JPA</h4>
@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/](https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/)
 
-- 💬 What I use the most **C#, Java, HTML, CSS, JavaScript, React, Spring, MySQL, MongoDB**</h4>
+- 💬 What I use the most **C#, Java, HTML, CSS, JavaScript, React, Spring, MySQL, MongoDB**
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
