@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/](https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/)
 
-- 💬 What I use the most **C#, Java, HTML, CSS, JavaScript, React**</h4>
+- 💬 What I use the most **C#, Java, HTML, CSS, JavaScript, React, Spring, MySQL, MongoDB**</h4>
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
