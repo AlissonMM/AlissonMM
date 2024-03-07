@@ -12,9 +12,9 @@
 
 <h4>- 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
-<h4>📄 Know about my experiences I've studied for three years at Etec Guarulhos, where I graduated as a systems development technician. Now I'm studying for a bachelor's degree in Systems Analysis and Development at Fatec Guarulhos, and I'm looking to specialize by doing projects and freelancing with my colleagues. Recently I started to make my first game using Unity Engine, as a hobby.</h4>
+<h4>- 📄 Know about my experiences I've studied for three years at Etec Guarulhos, where I graduated as a systems development technician. Now I'm studying for a bachelor's degree in Systems Analysis and Development at Fatec Guarulhos, and I'm looking to specialize by doing projects and freelancing with my colleagues. Recently I started to make my first game using Unity Engine, as a hobby.</h4>
 
-<h3>⚡ Hobbies **I love TTRPGs, Fantasy books such as(Lord of the Rings, The Saxon Stories, The legend of Ruff Ghanor ...), and playing videogame is also one of my hobbies🤣**<h2>
+- ⚡ Hobbies **I love TTRPGs, Fantasy books such as(Lord of the Rings, The Saxon Stories, The legend of Ruff Ghanor ...), and playing videogame is also one of my hobbies🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
