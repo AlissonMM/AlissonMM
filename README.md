@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alissonmm&label=Profile%20views&color=0e75b6&style=flat" alt="alissonmm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alissonmm" alt="alissonmm" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot, Java, ORM, JPA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlissonMM?tab=repositories](https://github.com/AlissonMM?tab=repositories)
