@@ -2,7 +2,7 @@
 <h3 align="center">A systems development technician, Full-stack developer from Brazil🙂</h3>
 <br>
 
-- 🌱 I’m currently learning Spring Boot, Java, ORM, JPA</h4>
+- 🌱 I’m currently learning Spring Web, REST APIs</h4>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlissonMM?tab=repositories](https://github.com/AlissonMM?tab=repositories)
 
