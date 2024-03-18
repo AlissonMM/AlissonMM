@@ -4,11 +4,11 @@
 <br>
 
 ## About me
-- 📄 Know about my experiences **I've studied for three years at Etec Guarulhos, where I graduated as a systems development technician. Now I'm studying for a bachelor's degree in Systems Analysis and Development at Fatec Guarulhos, and I'm looking to specialize by doing projects and freelancing with my colleagues. Recently I started to make my first game using Unity Engine, as a hobby**.
+- 🤓 I’m currently learning Spring Web, REST APIs
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
-- ⚡ Hobbies **I love TTRPGs, Videogames, Fantasy books and movies such as(Lord of the Rings, The Saxon Stories, The Legend of Ruff Ghanor ...)**
+- ⚡ Hobbies **TTRPGs, Videogames, Fantasy books, Movies**
 
 ## Front-End 💡
 <p align="left">
