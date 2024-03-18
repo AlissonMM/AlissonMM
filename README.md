@@ -45,3 +45,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonMM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonMM&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF512C&height=120&section=footer"/>
