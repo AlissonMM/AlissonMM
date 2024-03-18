@@ -1,5 +1,7 @@
-<h1 align="center">Welcome Visitor</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Hello+Visitor!,+my+name+is+Alisson+Mayer+Medeji;Welcome+to+my+GitHub!;Hello+Visitor!,+my+name+is+Alisson+Mayer+Medeji;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=813dd1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!,+meu+nome+é+Eduardo+Antonio;Boas-vindas+ao+meu+GitHub!;Hello+World!,+my+name+is+Eduardo+Antonio;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 <br>
 - 🌱 I’m currently learning Spring Web, REST APIs</h4>
 
