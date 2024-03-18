@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlissonMM?tab=repositories](https://github.com/AlissonMM?tab=repositories)
 
--📝 I regularly write articles on [https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/](https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/](https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/)
 
 - 💬 What I use the most **C#, Java, HTML, CSS, JavaScript, React, Spring, MySQL, MongoDB**
 
