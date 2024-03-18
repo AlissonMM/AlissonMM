@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
-- ⚡ Hobbies **TTRPGs, Videogames, Fantasy books, Movies**
+- 📕 Hobbies **TTRPGs, Videogames, Fantasy books, Movies**
 
 ## Front-End 💡
 <p align="left">
