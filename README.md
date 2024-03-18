@@ -37,9 +37,10 @@
   </a>
 </p>
 
-## Connect with me
+## Connect with me 📧
 <p align="left">
   <a href="https://www.linkedin.com/in/alisson-mayer-medeji-a15076221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonmmedeji@gmail.com)
   </div>
 </p>
 
