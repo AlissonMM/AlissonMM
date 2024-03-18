@@ -29,7 +29,7 @@
 ## Back-End ☕
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,mongodb,cs,php" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,postman,aws,mysql,mongodb,cs,php" />
   </a>
 </p>
 
