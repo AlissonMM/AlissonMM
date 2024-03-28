@@ -4,7 +4,7 @@
 <br>
 
 ## About me
-- 🤓 I’m currently learning Spring Web, REST APIs
+- 🤓 I’m currently learning Spring Web, REST APIs, Spring Security, Data Structures
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
