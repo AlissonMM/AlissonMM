@@ -4,7 +4,7 @@
 <br>
 
 ## About me
-- 🤓 I’m currently learning how to do games in Unity and doing projects in Spring Java☝️
+- 🤓 I’m currently doing games in Unity and doing projects in Spring Java
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
