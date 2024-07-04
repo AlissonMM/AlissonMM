@@ -4,7 +4,7 @@
 <br>
 
 ## About me
-- 🤓 I’m currently learning Spring Web, REST APIs, Spring Security, Data Structures
+- 🤓 I’m currently learning how to do games in Unity and doing projects in Spring Java☝️
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
