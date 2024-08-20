@@ -4,7 +4,7 @@
 <br>
 
 ## About me
-- 🤓 I’m currently doing games in Unity and doing REST APIs in Java
+- 🤓 I’m currently making games in Unity and making android APPs
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
