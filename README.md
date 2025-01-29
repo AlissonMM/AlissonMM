@@ -4,7 +4,7 @@
 <br>
 
 ## About me
-- 🤓 I’m currently developing Rest APIs using ASP.NET 
+- 🤓 I’m currently developing Web Applications using Angular! 
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
