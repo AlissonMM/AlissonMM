@@ -4,7 +4,7 @@
 <br>
 
 ## About me
-- 🤓 I’m currently developing Web Applications using Angular! 
+- 🤓 I’m currently developing Web Applications using Angular and SpringBoot! 
 
 - 📫 How to reach me **alissonmmedeji@gmail.com**</h4>
 
